@@ -1,0 +1,9 @@
+#pip install --upgrade pip setuptools wheel
+setuptools
+wheel
+graphlib-backport==1.0.3
+gym==0.21
+tensorflow==1.14
+stable_baselines==2.10.2
+Flask
+requests
